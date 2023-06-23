@@ -1,0 +1,32 @@
+@media screen and (max-width:1920px){
+    
+    .column {
+        margin: 16% auto;
+        text-align: center;
+    }
+    .flex-box{    
+        column-gap: 105px;
+        padding-top: 180px;
+    }
+    .footer {
+        margin-top: 50px;
+    }
+    .nav-items ul li{
+        font-size: 24px;
+    }
+    .title h1{
+        font-size: 119px;
+    }
+    .flex-content p {
+        font-size: 23px;
+    }
+    .flex-img {
+        width: 713px;
+        height: 576px;
+    }
+    .hero-box {
+        width: 1119px;
+        height: 171px;
+        transform: translate(-49%,130%);
+    }
+}
